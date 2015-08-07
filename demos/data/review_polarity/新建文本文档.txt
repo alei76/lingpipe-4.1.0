@@ -1,0 +1,1 @@
+5000 objective, 5000 subjective sentences. Objective from Internet Movie Database (IMDB) plot summaries, subjective from Rotten Tomatoes customer review snippets.
